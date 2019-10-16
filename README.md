@@ -1,2 +1,2 @@
-# cs401_SeniorProject
+# Senior Project
 Senior Project
